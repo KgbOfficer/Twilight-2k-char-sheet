@@ -1,0 +1,22 @@
+"""
+resources.qrc - Qt Resources file for the Twilight 2000 Character Creator
+"""
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>assets/fonts/military_font.ttf</file>
+        <file>assets/images/backgrounds/default_bg.png</file>
+        <file>assets/images/backgrounds/military_bg.png</file>
+        <file>assets/images/backgrounds/soviet_bg.png</file>
+        <file>assets/images/icons/app_icon.png</file>
+        <file>assets/images/icons/dice.png</file>
+        <file>assets/images/icons/save.png</file>
+        <file>assets/images/icons/export.png</file>
+        <file>assets/images/icons/new.png</file>
+        <file>assets/sounds/button_click.wav</file>
+        <file>assets/sounds/dice_roll.wav</file>
+        <file>assets/music/main_theme.mp3</file>
+        <file>assets/music/military_theme.mp3</file>
+        <file>assets/music/soviet_theme.mp3</file>
+    </qresource>
+</RCC>
