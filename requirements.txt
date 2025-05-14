@@ -1,9 +1,6 @@
-"""
-requirements.txt - Library dependencies for the Twilight 2000 Character Creator
-"""
 PyQt6==6.6.0
 PyQt6-Qt6==6.6.0
-PyQt6-WebEngine==6.6.0  # Updated to match PyQt6 version
+PyQt6-WebEngine==6.6.0
 PyPDF2==3.0.1
-reportlab==4.0.4  # For PDF generation
-pyinstaller==6.1.0  # For creating standalone executables
+reportlab==4.0.4
+pyinstaller==4.5.1
